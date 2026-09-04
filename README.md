@@ -123,6 +123,4 @@ Voice interface for educational use
 
 ---
 
-## Author
-By Sounak Roy
-Built to explore how AI systems can make scientific data understandable without simplifying the science.
+
